@@ -25,9 +25,9 @@ author:
   avatar           : "images/photo.png"
   bio              : My research interests include Machine Learning, Uncertainty Quantification, AI for Operator learning.
   location         : 
-  employer         : ""
+  employer         : 
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "huangjg@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
