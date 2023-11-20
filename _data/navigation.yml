@@ -1,13 +1,13 @@
 # main links links
-main:
-  - title: "About Me"
-    url: "/#-educations"
+# main:
+#   - title: "About Me"
+#     url: "/#-educations"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+    # url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Publications"
+  #   url: "/#-publications"
 
   # - title: "Awards"
   #   url: "/#️-awards"
@@ -18,8 +18,8 @@ main:
   # - title: "Activities"
   #   url: "/#-activities"
 
-  - title: "Group"
-    url: "/#-group"
+  # - title: "Group"
+    # url: "/#-group"
 
   # - title: "Teaching"
   #   url: "/#-teaching"
