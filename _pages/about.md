@@ -49,7 +49,7 @@ My current research interests mainly focus on Conformal prediction, Machine lear
 - *2021.07*: One paper (First author) has been accepted by IEEE Transactions on Fuzzy Systems. (Impact factor 12.029)
 - *2021.05*: One paper (First author) has been published in Applied Energy. (Impact factor 9.746)
 - *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
-- *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor. --> -->
+- *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor. --> 
 
 # 📝 Publications 
 
