@@ -255,7 +255,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
   + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
   + Supervisor: Prof. Hongxin Wei
 
-- **Algorithm Engineer & Cofunder** (2021.09 - Current): 
+- **Algorithm Engineer &amp; Cofunder** (2021.09 - Current): 
   + Changsha Hongcheng Electric Technology Co., LTD.
 
 
