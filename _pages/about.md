@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student in applied Mathematics at the [MIT Group](https://faculty.sist.shanghaitech.edu.cn/faculty/qiu/index.html) of ShanghaiTech University. I received my B.E. in Information and Computer Science from North China Electric Power University in 2021. I am serving as a research intern in Professor [Wei Hongxin's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology.
+I am serving as a research intern in Professor [Wei Hongxin's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology and a graduate student in applied Mathematics at the [MIT Group](https://yuechiu.github.io/index.html) of ShanghaiTech University. I received my B.S. in Information and Computer Science from North China Electric Power University in 2021.
 
 # ✡️ Research Interests
 My current research interests mainly focus on Conformal prediction, Machine learning, Uncertainty Quantification.
@@ -243,9 +243,9 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div> -->
 (\* Corresponding author; &dagger; Equal contribution)
-- **Physics-informed invertible neural network for the Koopman operator learning**, Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396) 
+- **Physics-informed invertible neural network for the Koopman operator learning**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396) 
 
-- **Conformal Prediction for Deep Classifier via Label Ranking**, **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430)
+- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430)
 
 
 
@@ -258,7 +258,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
   + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
   + Supervisor: Prof. Hongxin Wei
 
-- **Algorithm Engineer & Cofunder** (2021.09 - Current): 
+- **Algorithm Engineer \& Cofunder** (2021.09 - Current): 
   + Changsha Hongcheng Electric Technology Co., LTD.
 
 
