@@ -20,7 +20,7 @@ redirect_from:
 I am serving as a research intern in Professor [Wei Hongxin's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology and a graduate student in applied Mathematics at the [MIT Group](https://yuechiu.github.io/index.html) of ShanghaiTech University. I received my B.S. in Information and Computer Science from North China Electric Power University in 2021.
 
 # ✡️ Research Interests
-My current research interests mainly focus on Conformal prediction, Machine learning, Uncertainty Quantification.
+My current research interests mainly focus on Conformal Prediction, Machine Learning, Uncertainty Quantification.
 
 <!-- # 🔊 Position Openings
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
