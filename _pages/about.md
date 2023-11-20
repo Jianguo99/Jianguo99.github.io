@@ -252,7 +252,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 # 💻 Work Experience
 - **Research Intern** (2023.07 - Current): 
-  + School of Electrical Engineering and Telecommunications, Faculty of Engineering, University of New South Wales.
+  + Department of Statistics and Data Science, Southern University of Science and Technology.
   + Supervisor: Prof. Hongxin Wei
 
 - **Algorithm Engineer &amp; Cofunder** (2021.09 - Current): 
