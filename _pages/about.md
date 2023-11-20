@@ -309,4 +309,4 @@ The 10th IEEE International Conference on Communications, Control, and Computing
 - Course TC201 - **Matrix Computation**, ShanghaiTech University, 2022 Autumn
 
 # &nbsp;
-<script type='text/javascript' defer id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=YdX6YXgjA77Uw9hEY3IdExB_UQMCJZuZWUl8OJSZyLE'></script>
+<script type='text/javascript' async id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=YdX6YXgjA77Uw9hEY3IdExB_UQMCJZuZWUl8OJSZyLE'></script>
