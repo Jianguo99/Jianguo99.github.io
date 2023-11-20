@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ye Shi"
 description              : "Building 1A 404.A, 393 Huaxia Middle Road, Pudong New Area, Shanghai, China"
-repository               : "shiye21/shiye21.github.io"
+repository               : "Jianguo99/Jianguo99.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ye Shi 石野"
+  name             : "Jianguo Huang 黄建国"
   avatar           : "images/photo.jpg"
-  bio              : "Assistant Professor,      研究员, 博导, ShanghaiTech University"
+  bio              : My research interests include Machine Learning, Uncertainty Quantification, AI for Operator learning,.
   location         : 
-  employer         : "(021) 20684426"
+  employer         : ""
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=gMqbZPUAAAAJ"
-  email            : "shiye@shanghaitech.edu.cn"
+  googlescholar    : ""
+  email            : "huangjg@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
