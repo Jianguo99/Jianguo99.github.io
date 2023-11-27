@@ -255,7 +255,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
   + Department of Statistics and Data Science, Southern University of Science and Technology.
   + Supervisor: Prof. Hongxin Wei
 
-- **Algorithm Engineer &amp; Cofunder** (2021.09 - Current): 
+- **Algorithm Engineer \& Cofunder** (2021.09 - Current): 
   + Changsha Hongcheng Electric Technology Co., LTD.
 
 
