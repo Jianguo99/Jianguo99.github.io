@@ -240,9 +240,10 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div> -->
 (\* Corresponding author; &dagger; Equal contribution)
+- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430)
 - **Physics-informed invertible neural network for the Koopman operator learning**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396) 
 
-- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430)
+
 
 
 
