@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jianguo Huang 黄建国"
+  name             : "Jianguo Huang \\ 黄建国"
   avatar           : "images/photo.png"
   bio              : My research interests include Machine Learning, Uncertainty Quantification, AI for Operator learning.
   location         : 
