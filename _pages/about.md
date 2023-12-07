@@ -51,7 +51,7 @@ My current research interests mainly focus on Conformal Prediction, Machine Lear
 - *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
 - *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor. --> 
 
-# 📝 Publications 
+# 📝 Preprints 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -240,8 +240,8 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div> -->
 (\* Corresponding author; &dagger; Equal contribution)
-- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430)
-- **Physics-informed invertible neural network for the Koopman operator learning**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396) 
+- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430). Under review in ICLR2024
+- **Physics-informed invertible neural network for the Koopman operator learning**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396). Minor revisions in Journal of Computational Physics.
 
 
 
