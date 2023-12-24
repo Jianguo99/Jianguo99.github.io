@@ -244,7 +244,8 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 - **Physics-informed invertible neural network for the Koopman operator learning**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396). Minor revisions in Journal of Computational Physics.
 
 
-
+# 🗡️ Projects 
+[TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
 
 
 # 📖 Educations
