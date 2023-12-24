@@ -245,7 +245,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 
 # 🗡️ Projects 
-[TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
+- [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
 
 
 # 📖 Educations
