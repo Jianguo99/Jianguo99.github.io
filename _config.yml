@@ -28,7 +28,7 @@ author:
   location         : 
   employer         : 
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=r-BhZGwAAAAJ&hl=zh-CN"
   email            : "huangjg@shanghaitech.edu.cn"
   cv               : "docs/cv.pdf"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
