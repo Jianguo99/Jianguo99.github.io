@@ -51,7 +51,7 @@ My current research interests mainly focus on Conformal Prediction, Machine Lear
 - *2021.04*: One paper has been published in IEEE Transactions on Multimedia. (Impact Factor 6.051)
 - *2021.01*: Dr. Ye Shi joined ShanghaiTech as a Tenure-track Assistant Professor. --> 
 
-# 📝 Preprints 
+# 📝 Publications & Preprints 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023/NeurIPS2023_Ding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -242,7 +242,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 (\* Corresponding author; &dagger; Equal contribution)
 - **Resolution invariant deep operator network for PDEs with complex geometries**. **Jianguo Huang**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2402.00825). 
 - **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430). Under review in ICML2024
-- **Koopman operator learning using invertible neural networks**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396). Journal of Computational Physics.
+- **Koopman operator learning using invertible neural networks**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396). **Journal of Computational Physics**.
 - **Does Confidence Calibration Help Conformal Prediction?** Huajun Xi&dagger;, **Jianguo Huang**&dagger;, Lei Feng, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.04344). Under review in ICML2024
 
 
@@ -259,7 +259,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
   + Department of Statistics and Data Science, Southern University of Science and Technology.
   + Supervisor: Prof. Hongxin Wei
 
-- **Algorithm Engineer \& Co-founder** (2021.09 - Current): 
+- **Co-founder & Algorithm Engineer** (2021.09 - Current): 
   + Changsha Hongcheng Electric Technology Co., LTD.
 
 
