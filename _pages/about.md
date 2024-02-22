@@ -247,8 +247,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 
 # 🗡️ Projects 
-- [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch.
-
+- [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
 
 # 📖 Educations
 - *2021.09 - Current*, M.S., ShanghaiTech University, Shanghai, China. 
@@ -261,6 +260,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 - **Co-founder & Algorithm Engineer** (2021.09 - Current): 
   + Changsha Hongcheng Electric Technology Co., LTD.
+  + Vision statement: To empower partial discharge detection with AI
 
 
 <!-- # 🎖️ Awards
