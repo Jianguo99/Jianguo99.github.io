@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name_english     : "Jianguo Huang"
   name_china       : "黄建国"
-  avatar           : "images/photo.png"
+  avatar           : "images/photo.jpg"
   bio              : My research interests include Robust Deep Learning, Uncertainty Quantification (esp., Conformal Prediction), Computer Vision.
   location         : 
   employer         : 
