@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am serving as a research intern in Professor [Wei Hongxin's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology and a graduate student in applied Mathematics at the [MIT Group](https://yuechiu.github.io/index.html) of ShanghaiTech University. I received my B.S. in Information and Computer Science from North China Electric Power University in 2021.
+I am serving as a research intern in Professor [Wei Hongxin's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology and a graduate student in applied Mathematics at ShanghaiTech University. I received my B.S. in Information and Computer Science from North China Electric Power University in 2021.
 
 # ✡️ Research Interests
 My current research interests mainly focus on Conformal Prediction, Machine Learning, Uncertainty Quantification.
@@ -240,10 +240,12 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div> -->
 (\* Corresponding author; &dagger; Equal contribution)
-- **Resolution invariant deep operator network for PDEs with complex geometries**. **Jianguo Huang**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2402.00825). 
-- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430). Under review in ICML2024
+- **Does Confidence Calibration Help Conformal Prediction?** Huajun Xi&dagger;, **Jianguo Huang**&dagger;, Lei Feng, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.04344). Under review in NeurIPS'2024.
+- **Similarity-Navigated Conformal Prediction for Graph Neural Networks**. Jianqing Song, **Jianguo Huang**, Wenyu Jiang, Baoming Zhang , Shuangjie Li, Chongjun Wang\*. [[**paper**]](https://arxiv.org/pdf/2405.14303). Under review in NeurIPS'2024.
+- **Resolution invariant deep operator network for PDEs with complex geometries**. **Jianguo Huang**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2402.00825). Under review in Journal of Computational Physics.
+- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430). ICML'2024.
 - **Koopman operator learning using invertible neural networks**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396). **Journal of Computational Physics**.
-- **Does Confidence Calibration Help Conformal Prediction?** Huajun Xi&dagger;, **Jianguo Huang**&dagger;, Lei Feng, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.04344). Under review in ICML2024
+
 
 
 # 🗡️ Projects 
