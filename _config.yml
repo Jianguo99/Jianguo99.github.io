@@ -29,7 +29,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r-BhZGwAAAAJ&hl=zh-CN"
-  email            : "huangjg@shanghaitech.edu.cn"
+  email            : "jontyhuang@gmail.com"
   cv               : "docs/cv.pdf"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -53,13 +53,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "JianguoHuang99"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  wechat           : "schwamaths"
 
 # Reading Files
 include:
