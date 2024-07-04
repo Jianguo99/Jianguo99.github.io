@@ -129,6 +129,7 @@
 <!--        <img src="/assets/images/wechat_qr_code.png" alt="WeChat QR Code" style="width: 100px; height: 100px; display: inline-block; vertical-align: middle;">-->
 <!--        </li>-->
 <!--      {% endif %}-->
+      {% if author.wikipedia %}
       <li>
     <button onclick="toggleQRCode()" style="background: none; border: none; cursor: pointer;">
         <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat
@@ -147,6 +148,8 @@ function toggleQRCode() {
     }
 }
 </script>
+      {% endif %}
+
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
