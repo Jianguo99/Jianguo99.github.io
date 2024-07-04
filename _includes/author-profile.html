@@ -122,32 +122,11 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-<!--      {% if author.wechat %}-->
-<!--&lt;!&ndash;          <li> <a href="id: {{ author.wechat }}"><i class="fab fa-fw fa-weixin"></i>WeChat</a></li>&ndash;&gt;-->
-<!--      <li>-->
-<!--        <i class="fab fa-fw fa-weixin" aria-hidden="true"></i>-->
-<!--        <img src="/assets/images/wechat_qr_code.png" alt="WeChat QR Code" style="width: 100px; height: 100px; display: inline-block; vertical-align: middle;">-->
-<!--        </li>-->
-<!--      {% endif %}-->
+      {% if author.wechat %}
+          <li> <a href="id: {{ author.wechat }}"><i class="fab fa-fw fa-weixin"></i>WeChat</a></li>
+      {% endif %}
       {% if author.wikipedia %}
-      <li>
-    <button onclick="toggleQRCode()" style="background: none; border: none; cursor: pointer;">
-        <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat
-    </button>
-    <div id="wechat-qr-code" style="display: none;">
-        <img src="assets/images/wechat_qr_code.png" alt="WeChat QR Code" style="width: 100px; height: 100px;">
-    </div>
-</li>
-      <script>
-function toggleQRCode() {
-    var qrCodeDiv = document.getElementById('wechat-qr-code');
-    if (qrCodeDiv.style.display === 'none') {
-        qrCodeDiv.style.display = 'block';
-    } else {
-        qrCodeDiv.style.display = 'none';
-    }
-}
-</script>
+        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
 
     </ul>
