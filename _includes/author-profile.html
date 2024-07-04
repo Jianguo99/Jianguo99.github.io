@@ -124,9 +124,10 @@
       {% endif %}
       {% if author.wechat %}
 <!--          <li> <a href="id: {{ author.wechat }}"><i class="fab fa-fw fa-weixin"></i>WeChat</a></li>-->
-      {% if author.wechat %}
-        <li><a href="#"><i class="fab fa-fw fa-weixin"></i><img src="assets/images/wechat_qr_code.png" alt="WeChat QR Code" style="width: 100px; height: 100px;"></a></li>
-    {% endif %}
+      <li>
+        <i class="fab fa-fw fa-weixin" aria-hidden="true"></i>
+        <img src="/assets/images/wechat_qr_code.png" alt="WeChat QR Code" style="width: 100px; height: 100px; display: inline-block; vertical-align: middle;">
+        </li>
       {% endif %}
     </ul>
       <div class="author__urls_sm">
