@@ -214,7 +214,7 @@
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
       {% endif %}
       {% if author.wechat %}
-        <a href="#" onclick="alert('WeChat: {{ author.wechat }}');"><i class="fab fa-fw fa-weixin"></i></a>
+        <a href="mailto:{{ author.email }}"><i class="fab fa-weixin"></i></a>
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
