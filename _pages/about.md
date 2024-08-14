@@ -244,7 +244,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 - **Does Confidence Calibration Help Conformal Prediction?** Huajun Xi&dagger;, **Jianguo Huang**&dagger;, Lei Feng, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.04344). Under review in NeurIPS'2024.
 - **Similarity-Navigated Conformal Prediction for Graph Neural Networks**. Jianqing Song, **Jianguo Huang**, Wenyu Jiang, Baoming Zhang , Shuangjie Li, Chongjun Wang\*. [[**paper**]](https://arxiv.org/pdf/2405.14303). Under review in NeurIPS'2024.
 - **Resolution invariant deep operator network for PDEs with complex geometries**. **Jianguo Huang**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2402.00825), [[**video**]](https://www.youtube.com/watch?v=9H2jVWWKFGM&ab_channel=CRUNCHGroup%3AHomeofMath%2BMachineLearning%2BX#t=62m10s). Under review in Journal of Computational Physics. 
-- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430). ICML'2024.
+- **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430). [[**code**]](https://github.com/ml-stat-Sustech/conformal_prediction_via_label_ranking). ICML'2024.
 - **Koopman operator learning using invertible neural networks**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396), [[**video**]](https://www.youtube.com/watch?v=9H2jVWWKFGM&ab_channel=CRUNCHGroup%3AHomeofMath%2BMachineLearning%2BX#t=62m10s). **Journal of Computational Physics**.
 
 
@@ -253,13 +253,13 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 - [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
 - [Undingable-Optimization](https://github.com/datawhalechina/undingable-optimization): A tutorial on optimization methods in deep learning.
 # 📖 Educations
-- *2021.09 - Current*, M.S., ShanghaiTech University, Shanghai, China. 
+- *2021.09 - 2024.06, M.S., ShanghaiTech University, Shanghai, China. 
 - *2017.09 - 2021.06*, B.S., North China Electric Power University, Baoding, China. 
 
 # 💻 Work Experience
 - **Research Intern** (2023.07 - Current): 
   + Department of Statistics and Data Science, Southern University of Science and Technology.
-  + Supervisor: Prof. Hongxin Wei
+  + Supervisor: Prof. [Hongxin Wei](https://hongxin001.github.io/)
 
 - **Co-founder & Algorithm Engineer** (2021.09 - Current): 
   + Changsha Hongcheng Electric Technology Co., LTD.
