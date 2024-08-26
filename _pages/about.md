@@ -17,8 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am serving as a research intern in Professor [Wei Hongxin's research group](https://hongxin001.github.io/) at the Southern University of Science.
-I took my M.S. degree in Computer Science and Technology at ShanghaiTech University in 2024, and I received my B.S. in Information and Computer Science at North China Electric Power University in 2021.
+I am currently a research associate in the [AMI Research Group](https://personal.ntu.edu.sg/boan/) led by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). 
+Previously, I was a research intern in Prof. [Wei Hongxin's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology.
+I completed my M.S. in Computer Science and Technology at ShanghaiTech University in 2024 under the supervision of Prof. [Yue Qiu](https://yuechiu.github.io/) and Prof. [Hao Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wanghao/),
+and I earned my B.S. in Information and Computer Science from North China Electric Power University in 2021.
 
 # ✡️ Research Interests
 My current research interests mainly focus on Conformal Prediction, Machine Learning, Uncertainty Quantification.
@@ -253,11 +255,11 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 - [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) : A Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
 - [Undingable-Optimization](https://github.com/datawhalechina/undingable-optimization): A tutorial on optimization methods in deep learning.
 # 📖 Educations
-- *2021.09 - 2024.06, M.S., ShanghaiTech University, Shanghai, China. 
+- *2021.09 - 2024.06*, M.S., ShanghaiTech University, Shanghai, China. 
 - *2017.09 - 2021.06*, B.S., North China Electric Power University, Baoding, China. 
 
 # 💻 Work Experience
-- **Research Intern** (2023.07 - Current): 
+- **Research Intern** (2023.07 - 2024-08): 
   + Department of Statistics and Data Science, Southern University of Science and Technology.
   + Supervisor: Prof. [Hongxin Wei](https://hongxin001.github.io/)
 
