@@ -290,6 +290,8 @@ A tutorial on optimization methods in deep learning.
 
 [//]: # ()
 
+# 🎖️ Awards
+*Nov. 2024.*  I am honored to be recognized as [Top Reviewers](https://neurips.cc/Conferences/2024/ProgramCommittee#all-area-chairs) in NeurIPS 2024.
 
 <!-- # 🎖️ Awards
 - *2021* Best Student Paper Award (Corresponding author) at Australia Artificial Intelligence Institute. 
