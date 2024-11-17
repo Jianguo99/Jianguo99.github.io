@@ -23,7 +23,7 @@ I completed my M.S. in Computer Science and Technology at ShanghaiTech Universit
 and I earned my B.S. in Information and Computation Science from North China Electric Power University in 2021.
 
 # ✡️ Research Interests
-My current research interests mainly focus on Conformal Prediction, Machine Learning, Uncertainty Quantification.
+My current research interests mainly focus on complex reasoning of LLM, Conformal Prediction, Uncertainty Quantification and AI4Science.
 
 <!-- # 🔊 Position Openings
 - **Postgraduate Students:** Dr. Ye Shi recruits 2~3 postgraduate students for each academic year. The candidate is expected to be self-motivated in doing research on one of the following areas: Artificial Intelligence, Machine learning, 3D Vision, Smart Energy, etc. Solid mathematical background and sufficient programming skills are required. If you are interested in this opening, please email me your CV;
