@@ -20,7 +20,7 @@ redirect_from:
 I am currently a research associate in the [AMI Research Group](https://personal.ntu.edu.sg/boan/) led by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). 
 Previously, I was a research intern in Prof. [Hongxin Wei's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology.
 I completed my M.S. in Computer Science and Technology at ShanghaiTech University in 2024 under the supervision of Prof. [Yue Qiu](https://yuechiu.github.io/) and Prof. [Hao Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wanghao/),
-and I earned my B.S. in Information and Computer Science from North China Electric Power University in 2021.
+and I earned my B.S. in Information and Computation Science from North China Electric Power University in 2021.
 
 # ✡️ Research Interests
 My current research interests mainly focus on Conformal Prediction, Machine Learning, Uncertainty Quantification.
