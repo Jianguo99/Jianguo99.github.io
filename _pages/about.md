@@ -253,6 +253,12 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 # 🗡️ Projects 
 
+<div class='paper-box'><div class='paper-box-image'><a href='https://github.com/Jianguo99/OpenDLM'><img src='https://github-readme-stats.vercel.app/api/pin/?username=Jianguo99&repo=OpenDLM&show_owner=true' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+An open-source library focused on sampling algorithms for Diffusion Language Models (DLMs).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><a href='https://github.com/ml-stat-Sustech/TorchCP'><img src='https://github-readme-stats.vercel.app/api/pin/?username=ml-stat-Sustech&repo=TorchCP&show_owner=true' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
  Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
