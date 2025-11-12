@@ -242,11 +242,15 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 [[**paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512491) [[**code**]](https://github.com/leijiezhang/DSFR)
 </div>
 </div> -->
-(\* Corresponding author; &dagger; Equal contribution)
+(* Corresponding author; &dagger; Equal contribution)
+- **PAC Reasoning: Controlling the Performance Loss for Efficient Reasonin**, Hao Zeng&dagger;, Jianguo Huang&dagger;, Bingyi Jing, Hongxin Wei, Bo An\*. [[**paper**]](https://arxiv.org/abs/2510.09133).
+- **TorchCP: A Python Library for Conformal Prediction**, **Jianguo Huang**, Jianqing Song, Jianqing Song, Xuanning Zhou, Bingyi Jing, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.12683), [[**code**]](https://github.com/ml-stat-Sustech/TorchCP). JMLR.
+- **Let's Revise Step-by-Step: A Unified Local Search Framework for Code Generation with LLMs**, Zhiyi Lyu, **Jianguo Huang**, Yanchen Deng, Steven Hoi, Bo An\*. [[**paper**]](https://arxiv.org/abs/2508.07434). NeruIPS'2025.
+- **Conformal Prediction Meets Long-tail Classification**, Shuqi Liu, Jianguo Huang, Luke Ong. [[**paper**]](https://arxiv.org/abs/2508.11345). AAAI'2026.
 - **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430), [[**code**]](https://github.com/ml-stat-Sustech/conformal_prediction_via_label_ranking). ICML'2024.
 - **Does Confidence Calibration Help Conformal Prediction?** Huajun Xi&dagger;, **Jianguo Huang**&dagger;, Lei Feng, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.04344). TMLR.
 - **Similarity-Navigated Conformal Prediction for Graph Neural Networks**. Jianqing Song, **Jianguo Huang**, Wenyu Jiang, Baoming Zhang , Shuangjie Li, Chongjun Wang\*. [[**paper**]](https://arxiv.org/pdf/2405.14303). NeurIPS'2024.
-- **Resolution invariant deep operator network for PDEs with complex geometries**. **Jianguo Huang**, Yue Qiu\*. [[**paper**]](https://doi.org/10.1016/j.jcp.2024.113601), [[**code**]](https://github.com/Jianguo99/RDO_official), [[**video**]](https://www.youtube.com/watch?v=9H2jVWWKFGM&ab_channel=CRUNCHGroup%3AHomeofMath%2BMachineLearning%2BX#t=60m10s). Journal of Computational Physics. 
+- **Resolution invariant deep operator network for PDEs with complex geometries**. **Jianguo Huang**, Yue Qiu\*. [[**paper**]](https://doi.org/10.1016/j.jcp.2024.113601), [[**code**]](https://github.com/Jianguo99/RDO_official), [[**video**]](https://www.youtube.com/watch?v=9H2jVWWKFGM&ab_channel=CRUNCHGroup%3AHomeofMath%2BMachineLearning%2BX#t=60m10s). **Journal of Computational Physics**. 
 - **Koopman operator learning using invertible neural networks**. Yuhuang Meng&dagger;, **Jianguo Huang&dagger;**, Yue Qiu\*. [[**paper**]](https://arxiv.org/abs/2306.17396), [[**video**]](https://www.youtube.com/watch?v=9H2jVWWKFGM&ab_channel=CRUNCHGroup%3AHomeofMath%2BMachineLearning%2BX#t=91m10s). **Journal of Computational Physics**.
 
 
@@ -255,6 +259,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 <div class='paper-box'><div class='paper-box-image'><a href='https://github.com/Jianguo99/Awesome-Diffusion-LLM'><img src='https://github-readme-stats.vercel.app/api/pin/?username=Jianguo99&repo=Awesome-Diffusion-LLM&show_owner=true' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
+A curated and continuously updated list tracking the latest developments in Diffusion Language Models.
 </div>
 </div>
 
