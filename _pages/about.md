@@ -243,8 +243,8 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div> -->
 (* Corresponding author; &dagger; Equal contribution)
-- **Prism-1: Position- and Rival-Independent Scoring for System One Models**, Yao Long Teng, **Jianguo Huang**, Yanchen Deng, Jiayi Cai, Bo An\*. [[**paper**]](https://arxiv.org/abs/2610.22066).
-- **Consider, Then Choose: Order-Invariant Decisions in System One Models**, **Jianguo Huang**, Yao Long Teng, Yanchen Deng, Bo An\*. [[**paper**]](https://arxiv.org/abs/2610.18233).
+- **Prism-1: Position- and Rival-Independent Scoring for System One Models**, Yao Long Teng&dagger;, **Jianguo Huang**&dagger;, Yanchen Deng\*, Jiayi Cai, Bo An. [[**paper**]](https://arxiv.org/abs/2610.22066).
+- **Consider, Then Choose: Order-Invariant Decisions in System One Models**, **Jianguo Huang**&dagger;, Yao Long Teng&dagger;, Yanchen Deng\*, Bo An. [[**paper**]](https://arxiv.org/abs/2610.18233).
 - **Hesitation-Aware On-Policy Distillation for Diffusion Language Models**, **Jianguo Huang**, Lipeng Wan, Yanchen Deng, Bo An\*. [[**paper**]](https://arxiv.org/abs/2609.33301).
 - **PAC Reasoning: Controlling the Performance Loss for Efficient Reasoning**, Hao Zeng&dagger;, **Jianguo Huang**&dagger;, Bingyi Jing, Hongxin Wei, Bo An\*. [[**paper**]](https://arxiv.org/abs/2510.09133). NeurIPS'2026.
 - **TorchCP: A Python Library for Conformal Prediction**, **Jianguo Huang**, Jianqing Song, Jianqing Song, Xuanning Zhou, Bingyi Jing, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.12683), [[**code**]](https://github.com/ml-stat-Sustech/TorchCP). JMLR.
