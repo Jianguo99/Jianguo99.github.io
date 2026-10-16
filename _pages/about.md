@@ -245,7 +245,7 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 (* Corresponding author; &dagger; Equal contribution)
 - **Prism-1: Position- and Rival-Independent Scoring for System One Models**, Yao Long Teng&dagger;, **Jianguo Huang**&dagger;, Yanchen Deng\*, Jiayi Cai, Bo An. [[**paper**]](https://arxiv.org/abs/2610.22066).
 - **Consider, Then Choose: Order-Invariant Decisions in System One Models**, **Jianguo Huang**&dagger;, Yao Long Teng&dagger;, Yanchen Deng\*, Bo An. [[**paper**]](https://arxiv.org/abs/2610.18233).
-- **Hesitation-Aware On-Policy Distillation for Diffusion Language Models**, **Jianguo Huang**, Lipeng Wan, Yanchen Deng, Bo An\*. [[**paper**]](https://arxiv.org/abs/2609.33301).
+- **Hesitation-Aware On-Policy Distillation for Diffusion Language Models**, **Jianguo Huang**, Lipeng Wan, Yanchen Deng\*, Bo An. [[**paper**]](https://arxiv.org/abs/2609.33301).
 - **PAC Reasoning: Controlling the Performance Loss for Efficient Reasoning**, Hao Zeng&dagger;, **Jianguo Huang**&dagger;, Bingyi Jing, Hongxin Wei, Bo An\*. [[**paper**]](https://arxiv.org/abs/2510.09133). NeurIPS'2026.
 - **TorchCP: A Python Library for Conformal Prediction**, **Jianguo Huang**, Jianqing Song, Jianqing Song, Xuanning Zhou, Bingyi Jing, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.12683), [[**code**]](https://github.com/ml-stat-Sustech/TorchCP). JMLR.
 - **Let's Revise Step-by-Step: A Unified Local Search Framework for Code Generation with LLMs**, Zhiyi Lyu, **Jianguo Huang**, Yanchen Deng, Steven Hoi, Bo An\*. [[**paper**]](https://arxiv.org/abs/2508.07434). NeurIPS'2025.
