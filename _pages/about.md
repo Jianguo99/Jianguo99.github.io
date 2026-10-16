@@ -260,18 +260,6 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 
 # 🗡️ Projects 
 
-<div class='paper-box'><div class='paper-box-image'><a href='https://github.com/Jianguo99/Awesome-Diffusion-LLM'><img src='https://github-readme-stats.vercel.app/api/pin/?username=Jianguo99&repo=Awesome-Diffusion-LLM&show_owner=true' alt="sym" width="100%"></a></div>
-<div class='paper-box-text' markdown="1">
-A curated and continuously updated list tracking the latest developments in Diffusion Language Models.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><a href='https://github.com/Jianguo99/OpenDLM'><img src='https://github-readme-stats.vercel.app/api/pin/?username=Jianguo99&repo=OpenDLM&show_owner=true' alt="sym" width="100%"></a></div>
-<div class='paper-box-text' markdown="1">
-An open-source library focused on sampling algorithms for Diffusion Language Models (DLMs).
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><a href='https://github.com/ml-stat-Sustech/TorchCP'><img src='https://github-readme-stats.vercel.app/api/pin/?username=ml-stat-Sustech&repo=TorchCP&show_owner=true' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
  Python toolbox for conformal prediction research on deep learning models, using PyTorch. The [technical report](https://arxiv.org/abs/2402.12683) can give you a quickstart.
@@ -293,11 +281,15 @@ A tutorial on optimization methods in deep learning.
 - *2017.09 - 2021.06*, B.S., North China Electric Power University, Baoding, China. 
 
 # 💻 Work Experience
-- **Research Intern** (2023.07 - 2024-08): 
+- **Co-founder** (2026.08 - Current): 
+  + SingaHop Technologies Pte. Ltd.
+  + Focus: AI computing infrastructure
+
+- **Research Intern** (2023.07 - 2024.08): 
   + Department of Statistics and Data Science, Southern University of Science and Technology.
   + Supervisor: Prof. [Hongxin Wei](https://hongxin001.github.io/)
 
-- **Co-founder & Algorithm Engineer** (2021.09 - Current): 
+- **Co-founder & Algorithm Engineer** (2021.09 - 2024.08): 
   + Changsha Hongcheng Electric Technology Co., LTD.
   + Vision statement: To empower partial discharge detection with AI
 
