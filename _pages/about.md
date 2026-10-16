@@ -243,9 +243,12 @@ Juze Zhang, Jingya Wang\*, **Ye Shi\***, Lan Xu, Fei Gao, Jingyi Yu
 </div>
 </div> -->
 (* Corresponding author; &dagger; Equal contribution)
-- **PAC Reasoning: Controlling the Performance Loss for Efficient Reasonin**, Hao Zeng&dagger;, Jianguo Huang&dagger;, Bingyi Jing, Hongxin Wei, Bo An\*. [[**paper**]](https://arxiv.org/abs/2510.09133).
+- **Prism-1: Position- and Rival-Independent Scoring for System One Models**, Yao Long Teng, **Jianguo Huang**, Yanchen Deng, Jiayi Cai, Bo An\*. [[**paper**]](https://arxiv.org/abs/2610.22066).
+- **Consider, Then Choose: Order-Invariant Decisions in System One Models**, **Jianguo Huang**, Yao Long Teng, Yanchen Deng, Bo An\*. [[**paper**]](https://arxiv.org/abs/2610.18233).
+- **Hesitation-Aware On-Policy Distillation for Diffusion Language Models**, **Jianguo Huang**, Lipeng Wan, Yanchen Deng, Bo An\*. [[**paper**]](https://arxiv.org/abs/2609.33301).
+- **PAC Reasoning: Controlling the Performance Loss for Efficient Reasoning**, Hao Zeng&dagger;, **Jianguo Huang**&dagger;, Bingyi Jing, Hongxin Wei, Bo An\*. [[**paper**]](https://arxiv.org/abs/2510.09133). NeurIPS'2026.
 - **TorchCP: A Python Library for Conformal Prediction**, **Jianguo Huang**, Jianqing Song, Jianqing Song, Xuanning Zhou, Bingyi Jing, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.12683), [[**code**]](https://github.com/ml-stat-Sustech/TorchCP). JMLR.
-- **Let's Revise Step-by-Step: A Unified Local Search Framework for Code Generation with LLMs**, Zhiyi Lyu, **Jianguo Huang**, Yanchen Deng, Steven Hoi, Bo An\*. [[**paper**]](https://arxiv.org/abs/2508.07434). NeruIPS'2025.
+- **Let's Revise Step-by-Step: A Unified Local Search Framework for Code Generation with LLMs**, Zhiyi Lyu, **Jianguo Huang**, Yanchen Deng, Steven Hoi, Bo An\*. [[**paper**]](https://arxiv.org/abs/2508.07434). NeurIPS'2025.
 - **Conformal Prediction Meets Long-tail Classification**, Shuqi Liu, Jianguo Huang, Luke Ong. [[**paper**]](https://arxiv.org/abs/2508.11345). AAAI'2026.
 - **Conformal Prediction for Deep Classifier via Label Ranking**. **Jianguo Huang**&dagger;, Huajun Xi&dagger;, Linjun Zhang, Huaxiu Yao, Yue Qiu\*, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2310.06430), [[**code**]](https://github.com/ml-stat-Sustech/conformal_prediction_via_label_ranking). ICML'2024.
 - **Does Confidence Calibration Help Conformal Prediction?** Huajun Xi&dagger;, **Jianguo Huang**&dagger;, Lei Feng, Hongxin Wei\*. [[**paper**]](https://arxiv.org/abs/2402.04344). TMLR.
