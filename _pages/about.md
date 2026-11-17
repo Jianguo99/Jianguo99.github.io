@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research associate in the [AMI Research Group](https://personal.ntu.edu.sg/boan/) led by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). 
-Previously, I was a research intern in Prof. [Hongxin Wei's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology.
+I am currently the leader of the AI department at [MATARIA](https://mataria.ai/), where I am responsible for LLM post-training and the development of an agent framework for materials research. 
+Previously, I was a research associate in the [AMI Research Group](https://personal.ntu.edu.sg/boan/) led by Prof. [Bo An](https://personal.ntu.edu.sg/boan/), 
+and a research intern in Prof. [Hongxin Wei's research group](https://hongxin001.github.io/) at the Southern University of Science and Technology.
 I completed my M.S. in Computer Science and Technology at ShanghaiTech University in 2024 under the supervision of Prof. [Yue Qiu](https://yuechiu.github.io/) and Prof. [Hao Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wanghao/),
 and I earned my B.S. in Information and Computation Science from North China Electric Power University in 2021.
 
@@ -282,6 +283,10 @@ A tutorial on optimization methods in deep learning.
 - *2017.09 - 2021.06*, B.S., North China Electric Power University, Baoding, China. 
 
 # 💻 Work Experience
+- **AI Department Lead** (2026.10 - Current): 
+  + [MATARIA](https://mataria.ai/), materials intelligence infrastructure
+  + Focus: LLM post-training and materials agent framework development
+
 - **Co-founder** (2026.08 - Current): 
   + SingaHop Technologies Pte. Ltd.
   + Focus: AI computing infrastructure
